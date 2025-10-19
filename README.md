@@ -24,8 +24,8 @@ git clone https://github.com/syahriza-ctrl/ai-agent-email-ollama.git
 ```
 
 
-First you must have credentials.json! You can get from Google Cloud
-Download Ollama and get Llama3.2:3b (You can change the model instead!)
+- First you must have credentials.json! You can get from Google Cloud
+- Download Ollama and get Llama3.2:3b (You can change the model instead!)
 
 make 
 ```pip install -r requirements.txt ```
